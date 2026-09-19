@@ -1,5 +1,7 @@
 # FirstComment Agent
 
+Windows 用户请从 [Windows + Docker 中文逐步运行教程](README.windows.md) 开始，包含 PowerShell 命令、演示账号、人工审核/自动模式测试和排错步骤。
+
 FirstComment Agent is a local-first, policy-aware workspace for detecting creator posts, generating context-grounded comment suggestions, reviewing identity and commercial risk, and publishing only through verified official capabilities or a human-assisted workflow.
 
 The MVP is a modular monolith with a FastAPI backend, Dramatiq workers, PostgreSQL, Redis, a complete Mock Platform, and a Next.js operations console.
