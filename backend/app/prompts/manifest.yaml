@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "prompts": {
+    "anchor_extract": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "anchor_extract_v1.md", "sha256": ""}}
+    },
+    "opportunity_score": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "opportunity_score_v1.md", "sha256": ""}}
+    },
+    "comment_fast": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "comment_fast_v1.md", "sha256": ""}}
+    },
+    "comment_normal": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "comment_normal_v1.md", "sha256": ""}}
+    },
+    "comment_partner": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "comment_partner_v1.md", "sha256": ""}}
+    },
+    "comment_quality": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "comment_quality_v1.md", "sha256": ""}}
+    },
+    "risk_check": {
+      "default_version": "v1",
+      "versions": {"v1": {"file": "risk_check_v1.md", "sha256": ""}}
+    }
+  }
+}

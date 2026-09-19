@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/accounts/page": "/accounts",
+  "/analytics/page": "/analytics",
+  "/brand/page": "/brand",
+  "/campaigns/page": "/campaigns",
+  "/comments/page": "/comments",
+  "/creators/page": "/creators",
+  "/dashboard/page": "/dashboard",
+  "/live/page": "/live",
+  "/login/page": "/login",
+  "/page": "/",
+  "/posts/page": "/posts",
+  "/review/page": "/review",
+  "/risk/page": "/risk",
+  "/settings/page": "/settings"
+}
